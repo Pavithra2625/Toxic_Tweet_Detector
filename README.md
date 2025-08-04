@@ -26,7 +26,9 @@ How to Run
   Clone the repo
 
   Install dependencies:
+  
     pip install -r requirements.txt
+  
   Open and run Toxic_Tweet_Classification.ipynb
 
 Results
